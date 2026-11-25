@@ -18,6 +18,7 @@
 ## 文档
 
 - 使用与维护说明：[`README.md`](README.md)；版本对照：[`CHANGELOG.md`](CHANGELOG.md)。
+- 修改 CI 工作流、脚本安全或通用治理时读取：[`../tech-specs/common/README.md`](../tech-specs/common/README.md)（本机缺失回退 GitHub `jashanyng/tech-specs` 同路径）。
 - 文档与 Agent 规则使用简体中文；代码、命令、路径与标识符保持原样。
 
 ## Agent skills
